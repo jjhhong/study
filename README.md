@@ -1,1 +1,1 @@
-# study
+# GitHub & GIT study
